@@ -1,7 +1,7 @@
 {
   "name": "fuba-events-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "events list",
   "main": "app.js",
   "dependencies": {
     "telegram-node-bot": "^4.0.5"
@@ -18,7 +18,7 @@
     "chatbot"
   ],
   "author": "Felipe Matheus",
-  "license": "MPL-2.0",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/FelipeFuba/fuba-events-bot/issues"
   },
