@@ -3,11 +3,11 @@
 const Telegram = require('telegram-node-bot')
 const TelegramBaseController = Telegram.TelegramBaseController
 const TextCommand = Telegram.TextCommand
-const chatbot = new Telegram.Telegram('fuba_events')
+const chatbot = new Telegram.Telegram('2037096782:AAEJmjn63PqCyy3oKLX0Udooa632zs7clnI')
 
 class Eventscontroller extends TelegramBaseController {
     allEventsAction(scope) {
-        let msg = `QCon SP - 24-25-26/04/2017 - qconsp.com\nFrontInSampa - 01/07/2017 - frontinsampa.com.br`
+        let msg = `Hello World`
 
         scope.sendMessage(msg)
     }
