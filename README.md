@@ -30,7 +30,9 @@
 ~$ cd Desktop/fuba-events-bot
 ```
 <p>Com auxilio do <b>npm</b> (Node Package Manager), iniciaremos o projeto com o seguinte comando:</p>
-fui para o trabalho.... kkkk
+
 ```bash
 npm init
 ```
+fui para o trabalho.... kkkk
+
