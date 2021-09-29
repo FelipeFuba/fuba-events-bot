@@ -20,10 +20,9 @@
 /allevents
 ```
 <p>Não retornará nada, pois o chatbot ainda não sabe como responder. Deixando um pouco o BotFather de lado faremos o código JavaScript em cima da plataforma do NodeJS.</p>
-<b>Toda mensagem que enviamos para um chatbot do Telegram fica aguardando uma resposta por 24 horas, ou seja, para conseguirmos respondê-la precisamos ir até o Telegram, coletar as mensagens que estão aguardando resposta e respondê-las. Esse será o código que vamos desenvolver em JavaScript utilizando o NodeJS como plataforma.</b>
-
 <hr>
-
+<b>Toda mensagem que enviamos para um chatbot do Telegram fica aguardando uma resposta por 24 horas, ou seja, para conseguirmos respondê-la precisamos ir até o Telegram, coletar as mensagens que estão aguardando resposta e respondê-las. Esse será o código que vamos desenvolver em JavaScript utilizando o NodeJS como plataforma.</b>
+<hr>
 <p>Criando uma pasta com o nome <b>fuba-events-bot</b> e dentro dela uma pasta chamada <b>src</b>.</p>
 <p>No terminal entraremos nessa pasta:</p>
 
@@ -31,7 +30,7 @@
 ~$ cd Desktop/fuba-events-bot
 ```
 <p>Com auxilio do <b>npm</b> (Node Package Manager), iniciaremos o projeto com o seguinte comando:</p>
-
+fui para o trabalho.... kkkk
 ```bash
 npm init
 ```
