@@ -34,5 +34,4 @@
 ```bash
 npm init
 ```
-fui para o trabalho.... kkkk
 
